@@ -1,12 +1,15 @@
 <h1 align="center">Holaa!! Mayank Pandey Here💫💫</h1>
-<h3 align="center">A fervid Web developer and Competitive Programmer 👻 Pre-final year IIIT
-    Bhagalpur 🤖</h3>
-    <br></br>
+<!-- <h3 align="center">A fervid Web developer and Competitive Programmer 👻 Pre-final year IIIT
+    Bhagalpur 🤖</h3> -->
+    <!-- <br></br> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Web+Developer.;I+love+Competitive+Programming.;I+love+contributing.;I+love+learning.;Senior+Student+at+IIIT+Bhagalpur;&center=true&width=500&height=50"></a>
+</p>
+<!-- <br></br> -->
 <p>
     <img alt="gif" align="right" widht="320" height="280"
         src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" />
 </p>
-
 - 🐾 I’m currently learning **Full Stack development and Data Structures and Algorithm**
 
 - 🤝 I’m looking to collaborate on **Web development projects**
